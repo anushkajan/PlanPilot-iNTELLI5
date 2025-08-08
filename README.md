@@ -1,5 +1,11 @@
 # PlanPilot-iNTELLI5
-Plan Pilot is a project our team iNTELLI5 is building under Fluxatic BridgeAura'25 Internship Program.
+Our project aims to develop a comprehensive event management
+tool designed to empower individuals and small businesses to effortlessly plan
+and execute a wide array of events, from personal milestones like weddings
+and birthday parties to professional gatherings such as corporate workshops
+and product launches. The core vision is to eliminate the chaos and stress
+typically associated with event planning by centralizing all logistical aspects
+into a single, intuitive platform. <br>
 
 Team Members: <br>
 Anushka Jan ( Team Lead ) - https://github.com/anushkajan <br>
