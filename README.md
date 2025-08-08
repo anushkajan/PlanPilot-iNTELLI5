@@ -7,7 +7,7 @@ Anushka Jan ( Team Lead ) -
 Shail Joshi - https://github.com/shajo5318008
 Bhoomi Gaonkar - https://github.com/bhoomii20
 Mitali Naik - 
-Tejasvini Haveri - 
+Tejasvini Haveri - https://github.com/Tejasvini04
 
 Tech Stack (TBD):
 Frontend - 
