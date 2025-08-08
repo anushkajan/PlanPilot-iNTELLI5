@@ -4,7 +4,7 @@ Plan Pilot is a project our team iNTELLI5 is building under Fluxatic BridgeAura'
 
 Team Members:
 Anushka Jan ( Team Lead ) - 
-Shail Joshi - 
+Shail Joshi - https://github.com/shajo5318008
 Bhoomi Gaonkar - https://github.com/bhoomii20
 Mitali Naik - 
 Tejasvini Haveri - 
