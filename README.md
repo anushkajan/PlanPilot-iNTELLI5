@@ -11,7 +11,7 @@ Team Members: <br>
 Anushka Jan ( Team Lead ) - https://github.com/anushkajan <br>
 Shail Joshi - https://github.com/shajo5318008 <br>
 Bhoomi Gaonkar - https://github.com/bhoomii20 <br> 
-Mitali Naik - <br>
+Mitali Naik - https://github.com/m122n <br>
 Tejasvini Haveri - https://github.com/Tejasvini04 <br>
 
 Tech Stack (TBD): <br>
