@@ -20,9 +20,6 @@ Backend -  <br>
 Database -  <br>
 
 ## 🌐 Live API Documentation
-
-PlanPilot API is now live and accessible at:
-- **API Base URL:** `https://planpilot-intelli5.onrender.com`
 - **Interactive Swagger Documentation:** `https://planpilot-intelli5.onrender.com/api-docs`
 - **Health Check:** `https://planpilot-intelli5.onrender.com/health`
 
